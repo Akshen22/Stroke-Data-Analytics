@@ -41,4 +41,4 @@ These projects sharpened my modular Python chops 🛠️, from gritty low-level 
 ## 📜 License
 MIT License – Fork away, just shout-out! 🎉
 
-Author: Akshen Dhami (akshendhami@gmail.com)👤.
+Author: Akshen Dhami (akshendhami@gmail.com) & https://www.linkedin.com/in/akshen-dhami22👤.
