@@ -11,7 +11,7 @@ The dataset (`data.csv` in `/shared/`) packs **20 features** such as `age`, `hyp
   - `query_module.py`: Crunches stats (mean, median, mode) for stroke queries, e.g., average age for smokers with hypertension 🧮; dietary habits by stroke outcome 🍎; persists outputs to CSV 💾.
   - `ui_module.py`: Interactive text-based menu for queries, weaving in prior modules 🔗.
 - **Main Entry**: Fire up `task1/main.ipynb` in Jupyter for the demo 🎬.
-- **Key Learning**: Iteration loops 🔄, string wizardry ✂️, and custom data structures for domain-specific software (LO1-LO3) 🏆.
+- **Key Learning**: Iteration loops 🔄, string wizardry ✂️, and custom data structures for domain-specific software🏆.
 - **Extensions**: Streamlit.
 
 ## 📊 Task 2: OOP, EDA, & ML Predictions 🤖
