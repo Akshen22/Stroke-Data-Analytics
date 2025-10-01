@@ -1,7 +1,7 @@
 # Stroke Data Analytics 🧠💻
 
 ## 📋 Overview
-This repository showcases implementations for two interconnected coursework 🎓. We dive deep into stroke data analytics using a simulated dataset of **172,000 anonymous patient records** 📈. The focus? Analyzing cardiovascular risk factors like age 👴, hypertension 🩸, smoking 🚬, glucose levels 🍯, and lifestyle habits 🏃‍♂️ to empower clinicians in preventing fatalities ⚕️.
+This repository showcases the implementations for two interconnected coursework 🎓. We dive deep into stroke data analytics using a simulated dataset of **172,000 anonymous patient records** 📈. The focus? Analyzing cardiovascular risk factors like age 👴, hypertension 🩸, smoking 🚬, glucose levels 🍯, and lifestyle habits 🏃‍♂️ to empower clinicians in preventing fatalities ⚕️.
 
 The dataset (`data.csv` in `/shared/`) packs **20 features** such as `age`, `hypertension`, `heart_disease`, `avg_glucose_level`, `bmi`, `smoking_status`, `stroke`, and more 🌐. Both tasks champion ethical AI use 🤝, inclusivity in health tech ♿, and sustainability in data-driven healthcare 🌍.
 
