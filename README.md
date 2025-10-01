@@ -1,10 +1,3 @@
-### GitHub Repository Description (One-Liner)
-🚀 Stroke Data Analytics Projects: Python-powered insights into cardiovascular risks using 172K patient records – from procedural querying to ML predictions! 💉📊
-
-*(This is the short description that appears under your repo name on GitHub. Paste it directly into the repo settings.)*
-
----
-
 # Stroke Data Analytics Projects: Programming Concepts and Practice 🧠💻
 
 ## 📋 Overview
