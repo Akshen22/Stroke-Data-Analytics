@@ -1,4 +1,4 @@
-# Stroke Data Analytics Projects: Programming Concepts and Practice 🧠💻
+# Stroke Data Analytics 🧠💻
 
 ## 📋 Overview
 This repository showcases implementations for two interconnected coursework assignments in the "Programming Concepts and Practice" module (Code: 55-706555) 🎓. We dive deep into stroke data analytics using a simulated dataset of **172,000 anonymous patient records** 📈. The focus? Analyzing cardiovascular risk factors like age 👴, hypertension 🩸, smoking 🚬, glucose levels 🍯, and lifestyle habits 🏃‍♂️ to empower clinicians in preventing fatalities ⚕️.
